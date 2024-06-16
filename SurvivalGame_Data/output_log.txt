@@ -1,0 +1,79 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3992 MB
+    Driver:   25.21.14.1771
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Projects\Unity\SurvivalGame\SurvivalGame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.017 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.943677 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 8c0 -> priority: 1 
+  Thread -> id: cf4 -> priority: 1 
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hammer(Clone)/martello:impagnatura_legno_0", Mesh asset path "" Mesh name "martello:impagnatura_legno_0"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hammer(Clone)/martello:metallo_0", Mesh asset path "" Mesh name "martello:metallo_0"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hammer(Clone)/martello:impagnatura_legno_0", Mesh asset path "" Mesh name "martello:impagnatura_legno_0"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hammer(Clone)/martello:metallo_0", Mesh asset path "" Mesh name "martello:metallo_0"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hammer(Clone)/martello:impagnatura_legno_0", Mesh asset path "" Mesh name "martello:impagnatura_legno_0"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hammer(Clone)/martello:metallo_0", Mesh asset path "" Mesh name "martello:metallo_0"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hammer(Clone)/martello:impagnatura_legno_0", Mesh asset path "" Mesh name "martello:impagnatura_legno_0"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hammer(Clone)/martello:metallo_0", Mesh asset path "" Mesh name "martello:metallo_0"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hammer(Clone)/martello:impagnatura_legno_0", Mesh asset path "" Mesh name "martello:impagnatura_legno_0"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "hammer(Clone)/martello:metallo_0", Mesh asset path "" Mesh name "martello:metallo_0"
+ 
+(Filename:  Line: 0)
+
